@@ -1,0 +1,18 @@
+h1{
+    color: aqua;
+}
+.scrollbar h1{
+    color: black;
+}
+.scrollbar{
+    background-color: beige;
+    overflow: scroll;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-self: center;
+}
+.scrollbar img{
+    width: 250px;
+    height: 200px
+}
